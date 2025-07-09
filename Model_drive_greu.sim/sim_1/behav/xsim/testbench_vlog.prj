@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Model_drive_greu.srcs/sources_1/new/FSM.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/comp_eq.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/comp_min_max.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/counter.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/mux.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/ram.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/registru_8b.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/substract.sv" \
+"../../../../Model_drive_greu.srcs/sources_1/new/top.sv" \
+"../../../../Model_drive_greu.srcs/sim_1/new/testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

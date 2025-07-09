@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun May 25 17:08:10 2025
+# Process ID: 13004
+# Current directory: D:/Educatie/Aplicatii_cid/pregatire test 2/Model_drive_greu/Model_drive_greu.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Educatie/Aplicatii_cid/pregatire test 2/Model_drive_greu/Model_drive_greu.sim/sim_1/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Educatie/Aplicatii_cid/pregatire test 2/Model_drive_greu/Model_drive_greu.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Educatie/Aplicatii_cid/pregatire test 2/Model_drive_greu/Model_drive_greu.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Educatie/Aplicatii_cid/pregatire -notrace
